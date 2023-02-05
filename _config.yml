@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Huei Lin Blog
-email: ordinff1234@example.com
+email: ordinff1234@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, Nice to see you! I’m Huei-Lin Chiou, or you can call me Lily.Welcome to my blog:)
+  Hi, Nice to see you! I’m Huei-Lin Chiou, or you can call me Lily.Welcome to my blog:) I'm a jogger and wanna be a digital nomad lifestyle,bilingual.We can hang on to a dream.Go ahead!!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lilysally.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Huei_00
