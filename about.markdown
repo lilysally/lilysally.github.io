@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![](https://i.imgur.com/z5t72hG.jpg)
+![](https://i.imgur.com/BDO6ekJ.png)
 
 
 
